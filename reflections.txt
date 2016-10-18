@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+* I'm already quite familiar with HTML and CSS. However, I now learned how to draw a horizontal line using <hr>, a tag I've never used before.
+* It was all quite easy, it's not my first time writing HTML documents.
+* Nothing was difficult so far.
+* I did not know how to draw a horizontal line, but the documentation certainly helped me with that!
